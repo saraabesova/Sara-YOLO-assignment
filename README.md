@@ -62,7 +62,7 @@ Running Through the Terminal
    After the requirements are installed, it is time to run the script.
    <br />
    
-## Usage Examples
+## _Usage Examples_
 8. Run the script with the following command:
     ```
     python <path_to_script> --image-path <path_to_image>
